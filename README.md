@@ -1,7 +1,7 @@
-# OpenTimeWatch-Prototype2
-An ESP32 based smart watch running [OpenTimeWatch OS](https://github.com/OpenTimeWatch-Project/OpenTimeWatch-OS). 
+# OpenTimeWatch-1
+An ESP32-S3 based smart watch running [OpenTimeWatch OS](https://github.com/OpenTimeWatch-Project/OpenTimeWatch-OS). 
                                                                          
-Features:-
+Specifications:-
 1. ESP32 S3 Flash: 16MB, PSRAM: 8MB
 2. MPU6050 (accelerometer)
 3. IR LED
