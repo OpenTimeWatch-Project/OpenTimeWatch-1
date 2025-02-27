@@ -12,4 +12,4 @@ Specifications:-
 8. Heart rate sensor
 9. 3 buttons
 
-Note :- The watch prototype is currently under development and will be open sourced on March
+Note :- The watch prototype is currently under development and will be open sourced on April
