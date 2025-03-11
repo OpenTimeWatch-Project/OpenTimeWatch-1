@@ -1,5 +1,11 @@
 # OpenTimeWatch-1
-An ESP32-S3 based smart watch running [OpenTimeWatch OS](https://github.com/OpenTimeWatch-Project/OpenTimeWatch-OS). This watch is currently a WIP project and will be fully completed with the case by the end of 2025.
+An ESP32-S3 based open source smartwatch running [OpenTimeWatch OS](https://github.com/OpenTimeWatch-Project/OpenTimeWatch-OS). 
+
+The OpenTimeWatch-1 is a DIY affordable smartwatch which can be used as a fitness tracker, home automation device, ethical hacking device and more!
+It contains a powerful ESP32-S3 dual core processor which unlocks even more potential for the watch and eqquiped with WiFi, bluetooth and an IR transmitter
+this watch can controll and communicate with a variety of devices. MPU6050 gives a sense of motion, the torch and the speaker gives more accesibility.
+The watch's software is very flexible and allows you to write your own software without any restrictions. And by being open source people can create custom
+cases and versions of the watch to their liking.
                                                                          
 Specifications:-
 1. ESP32 S3 WROOM 1:- Flash: 16MB, PSRAM: 8MB
@@ -12,3 +18,6 @@ Specifications:-
 8. 3 navigation buttons
 9. Micro USB connector
 10. Slide on/off switch (Optional)
+11. Heart rate sensor
+
+Note:- This watch is currently a WIP project and will be fully completed with the casing by the end of 2025.
