@@ -1,4 +1,7 @@
 # OpenTimeWatch-1
+
+![alt text](20250425_133436.jpg)
+
 An ESP32-S3 based open source smartwatch running [OpenTimeWatch OS](https://github.com/OpenTimeWatch-Project/OpenTimeWatch-OS). 
 
 The OpenTimeWatch-1 is a DIY affordable smartwatch which can be used as a fitness tracker, home automation device, ethical hacking device and more!
