@@ -23,4 +23,4 @@ Specifications:-
 10. Slide on/off switch (Optional)
 11. Heart rate sensor
 
-Note:- This watch is currently a WIP project and will be fully completed with the casing by the end of 2025.
+Note:- This watch is currently a WIP project
