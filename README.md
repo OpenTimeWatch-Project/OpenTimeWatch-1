@@ -1,4 +1,4 @@
-# OpenTimeWatch-1
+# OpenTimeWatch-1 Rev 1
 
 ![alt text](20250425_133436.jpg)
 
@@ -23,4 +23,4 @@ Specifications:-
 10. Slide on/off switch (Optional)
 11. Heart rate sensor
 
-Note:- This watch is currently a WIP project
+Note:- This watch is WIP and has multiple issues and not recomeneded to be used, might get superseded by Rev 2.
